@@ -1,0 +1,45 @@
+body {
+  background-color: #B1D0E0;
+}
+
+hr {
+  width: 10%;
+  border: none;
+  border-top:  5px dotted;
+  border-color: #3E8E7E;
+}
+
+h1 {
+  font-size: 50px;
+  color: #1A374D;
+}
+
+h3 {
+  color: #406882;
+}
+
+th {
+  color: #1A374D;
+}
+
+table {
+  color: #292C6D;
+}
+
+ul {
+  color: #292C6D;
+}
+
+a {
+  color: #DD4A48;
+  font-style: italic;
+  text-decoration: none;
+}
+
+.myimg {
+  height: 300px;
+}
+
+.discriptionOfSelf {
+  color: #461111;
+}
