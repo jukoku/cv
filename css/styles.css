@@ -36,6 +36,11 @@ a {
   text-decoration: none;
 }
 
+.center {
+  margin: auto;
+  width: 50%;
+}
+
 .myimg {
   height: 300px;
 }
