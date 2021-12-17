@@ -12,6 +12,7 @@ hr {
 h1 {
   font-size: 50px;
   color: #1A374D;
+  text-align: center;
 }
 
 h3 {
@@ -36,14 +37,17 @@ a {
   text-decoration: none;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .center {
   margin: auto;
   width: 50%;
 }
 
-.myimg {
-  height: 300px;
-}
 
 .discriptionOfSelf {
   color: #461111;
